@@ -29,8 +29,6 @@ public class LaunchActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-//        ScanditLicense.setAppKey("iqtAfg3lU2oibJ6K8ZAAK1NuAMvL9W8jZOujX/vCJ1w");
-
         launchView = new LaunchView(this);
         setContentView(launchView.createBaseView());
         checkApp();
