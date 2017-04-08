@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toolbar">#3F51B5</color>
+    <color name="status">#303F9F</color>
+    <color name="accent">#FF4081</color>
+    <color name="base">#fafafa</color>
+    <color name="dialog_background">#803F51B5</color>
+
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="transparent">#00000000</color>
+</resources>
